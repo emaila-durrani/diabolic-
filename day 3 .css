@@ -1,0 +1,34 @@
+p,a{
+    padding-right: 20px;
+  font-size: 20px;
+  font-family: "Rubik Dirt", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  body
+  {
+    background-image: url("amazon.jpg");
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    text-align: center;
+      
+  }
+  
+  
+    
+    button{
+      font-family: "Rubik Dirt", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  
+      border-radius: 100px;
+      border-color: aliceblue;
+      text-align: center;
+      
+      color: rgb(7, 7, 7);
+  
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    }

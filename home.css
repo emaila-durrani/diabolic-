@@ -1,0 +1,52 @@
+body
+{
+  
+    font-family: "Montserrat", sans-serif;
+
+  
+}
+
+main{
+  margin-left: 20px;
+  margin-right: 20px;
+
+
+}
+
+
+
+h1{
+  text-align: center;
+}
+h1:hover{
+    background-color: red;
+}
+
+
+
+.navbar a:hover
+{
+  background-color:red;
+}
+
+.navbar a{
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  display: block;
+  padding: 15px;
+}
+.navbar ul{
+  list-style-type: none;
+  text-decoration: none;
+background-color: black;
+text-align: center;
+padding: 0px;
+margin: 0px;
+overflow: hidden;
+
+}
+
+.navbar li{
+  float: left;
+}
